@@ -1,0 +1,286 @@
+Filter Bank Test
+==================================
+
+IEE Test: 10000 runs, filterbank size: 4
+start time: 1.074081
+end time: 1.079331
+total time: 0.005250 s
+unit time: 0.000001 s
+speed: 1923076.869071 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 4
+start time: 1.468268
+end time: 1.496318
+total time: 0.028050 s
+unit time: 0.000003 s
+speed: 357142.863845 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 8
+start time: 2.057164
+end time: 2.066414
+total time: 0.009250 s
+unit time: 0.000001 s
+speed: 1086956.532543 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 8
+start time: 2.477881
+end time: 2.505432
+total time: 0.027550 s
+unit time: 0.000003 s
+speed: 363636.360796 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 16
+start time: 3.073153
+end time: 3.090403
+total time: 0.017250 s
+unit time: 0.000002 s
+speed: 581395.348768 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 16
+start time: 3.510336
+end time: 3.539553
+total time: 0.029217 s
+unit time: 0.000003 s
+speed: 342465.748423 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 24
+start time: 4.117532
+end time: 4.142782
+total time: 0.025250 s
+unit time: 0.000003 s
+speed: 396825.404272 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 24
+start time: 4.568681
+end time: 4.599565
+total time: 0.030884 s
+unit time: 0.000003 s
+speed: 324675.330768 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 28
+start time: 5.173156
+end time: 5.202406
+total time: 0.029250 s
+unit time: 0.000003 s
+speed: 342465.748423 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 28
+start time: 5.619775
+end time: 5.652992
+total time: 0.033217 s
+unit time: 0.000003 s
+speed: 301204.827876 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 32
+start time: 6.237296
+end time: 6.270546
+total time: 0.033250 s
+unit time: 0.000003 s
+speed: 301204.827876 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 32
+start time: 6.701477
+end time: 6.734027
+total time: 0.032550 s
+unit time: 0.000003 s
+speed: 307692.311160 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 40
+start time: 7.310242
+end time: 7.351492
+total time: 0.041250 s
+unit time: 0.000004 s
+speed: 242718.441589 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 40
+start time: 7.771344
+end time: 7.805561
+total time: 0.034217 s
+unit time: 0.000003 s
+speed: 292397.662140 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 64
+start time: 8.387599
+end time: 8.452849
+total time: 0.065250 s
+unit time: 0.000007 s
+speed: 153374.229130 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 64
+start time: 8.871084
+end time: 8.910301
+total time: 0.039217 s
+unit time: 0.000004 s
+speed: 255102.045604 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 128
+start time: 9.493293
+end time: 9.622543
+total time: 0.129250 s
+unit time: 0.000013 s
+speed: 77399.382063 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 128
+start time: 10.044466
+end time: 10.097016
+total time: 0.052550 s
+unit time: 0.000005 s
+speed: 190476.191988 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 256
+start time: 10.679713
+end time: 10.936963
+total time: 0.257250 s
+unit time: 0.000026 s
+speed: 38880.247550 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 256
+start time: 11.366453
+end time: 11.445670
+total time: 0.079217 s
+unit time: 0.000008 s
+speed: 126262.627596 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 512
+start time: 12.005831
+end time: 12.519081
+total time: 0.513250 s
+unit time: 0.000051 s
+speed: 19485.580925 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 512
+start time: 12.941008
+end time: 13.073558
+total time: 0.132550 s
+unit time: 0.000013 s
+speed: 75471.698466 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 1024
+start time: 13.663699
+end time: 14.688949
+total time: 1.025250 s
+unit time: 0.000103 s
+speed: 9754.193964 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 1024
+start time: 15.124151
+end time: 15.363368
+total time: 0.239217 s
+unit time: 0.000024 s
+speed: 41806.020284 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 2048
+start time: 15.949470
+end time: 17.998721
+total time: 2.049250 s
+unit time: 0.000205 s
+speed: 4879.953212 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 2048
+start time: 18.428386
+end time: 18.880936
+total time: 0.452550 s
+unit time: 0.000045 s
+speed: 22099.448028 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 4096
+start time: 19.468710
+end time: 23.565961
+total time: 4.097250 s
+unit time: 0.000410 s
+speed: 2440.691204 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 4096
+start time: 23.996568
+end time: 24.875785
+total time: 0.879217 s
+unit time: 0.000088 s
+speed: 11373.976144 Hz
+
+
+
+==================================
+
+IEE Test: 10000 runs, filterbank size: 8192
+start time: 25.466947
+end time: 33.660197
+total time: 8.193250 s
+unit time: 0.000819 s
+speed: 1220.524374 Hz
+
+
+XMOS Vector Unit Test: 10000 runs, filterbank size: 8192
+start time: 34.086206
+end time: 35.818757
+total time: 1.732550 s
+unit time: 0.000173 s
+speed: 5772.005939 Hz
+
+
+
